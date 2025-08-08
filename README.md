@@ -11,7 +11,7 @@ Tool canggih untuk mengirim pesan anonim ke akun NGL — cepat, kustomisasi ting
 ![NGL](https://img.shields.io/badge/NGL-Anonim%20Q%26A-red?style=for-the-badge&logo=google-forms)
 
 ![Preview Tool](https://via.placeholder.com/800x400.png?text=Raihan+NGL+Spammer+Pro)  
-*Ganti dengan screenshot asli nanti*
+*screenshot*
 
 ---
 
