@@ -38,7 +38,7 @@ cd nglspampro
 
 ### 3. Jalankan Tool
 ```bash
-python ngl_pro.py
+python nglpro.py
 ```
 
 > 🔑 Kamu membutuhkan **kunci akses (key)** untuk menggunakan tool ini. Hubungi developer untuk mendapatkannya.
