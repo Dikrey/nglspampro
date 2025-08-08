@@ -1,15 +1,12 @@
 # nglspampro
 Tool canggih untuk mengirim pesan anonim ke akun NGL — cepat, kustomisasi tinggi, dan dibuat untuk kebutuhan hiburan (gunakan secara bijak!)
-
-Tentu! Berikut adalah file **`README.md` dalam Bahasa Indonesia** yang profesional, menarik, dan informatif untuk project **Raihan NGL Spammer Pro** kamu, berdasarkan kode dan data dari `ngl.link` yang kamu miliki.
-
 ---
 
 # 🚀 Raihan NGL Spammer Pro
 
 > Tool canggih untuk mengirim pesan anonim ke akun NGL — cepat, kustomisasi tinggi, dan dibuat untuk kebutuhan hiburan (gunakan secara bijak!).
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![NGL](https://img.shields.io/badge/NGL-Anonim%20Q%26A-red?style=for-the-badge&logo=google-forms)
 
