@@ -42,6 +42,7 @@ python nglpro.py
 ```
 
 > 🔑 Kamu membutuhkan **kunci akses (key)** untuk menggunakan tool ini. Hubungi developer untuk mendapatkannya.
+> download key: https://sfl.gl/B5bt
 
 ---
 
@@ -72,7 +73,7 @@ Silakan hubungi saya:
 
 - 📩 **Telegram**: [@raihan_official0307](https://t.me/raihan_official0307)
 - 💬 **Butuh key akses?** Chat saya di Telegram!
-
+- download key: https://sfl.gl/B5bt
 ---
 
 ## 🙏 Dukung Saya
